@@ -48,7 +48,7 @@ La aplicación almacena todos los datos mediante localStorage. CoinCoffer ofrece
 </p>
 
  <p align="center">
- <img src="/img_readme/diagrama2" width="500">
+ <img src="/img_readme/diagrama2.png" width="500">
 </p>
 
 - **AppModule:** Este es típicamente el módulo raíz que inicia y lanza la aplicación Angular.
