@@ -1,4 +1,4 @@
-# Descripción Mejorada
+# CoinCoffer
 
  <p align="center">
  <img src="/img_readme/portada.png" width="850">
