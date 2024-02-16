@@ -1,7 +1,7 @@
 # Descripción Mejorada
 
  <p align="center">
- <img src="/img_readme/portada.png" width="800">
+ <img src="/img_readme/portada.png" width="850">
 </p>
 
 Este proyecto, implementado en Angular e Ionic, consiste en una aplicación móvil enfocada en la gestión de ahorros personales a través de la utilización de "cofres". El usuario puede personalizar cada cofre asignándole un nombre, una prioridad, un monto objetivo de ahorro y una fecha límite. La pantalla principal muestra los cofres existentes, que representan las distintas metas financieras del usuario. Al acceder a un cofre, según su tipo, se presenta información relevante como el total acumulado, cuánto se debería ahorrar o depositar, ajustándose al método de ahorro seleccionado.
