@@ -73,3 +73,10 @@ La aplicación almacena todos los datos mediante localStorage. CoinCoffer ofrece
  <p align="center">
  <img src="/img_readme/rutas.png" width="500">
 </p>
+
+## Diagrama de secuencia , flujo de Usuario en la App  
+
+ <p align="center">
+ <img src="/img_readme/diagrama-secuencia.png" width="500">
+</p>
+
